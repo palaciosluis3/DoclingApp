@@ -1,0 +1,9 @@
+@echo off
+color 0B
+echo [SYS] Entorno GPU de Docling preparando despliegue...
+
+echo [INFO] Activando entorno virtual venv_gpu...
+call venv_gpu\Scripts\activate
+
+echo [INFO] Lanzando aplicacion nativa (Aceleracion GPU activada)...
+start pythonw app.py

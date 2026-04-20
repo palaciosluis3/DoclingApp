@@ -1,0 +1,6 @@
+customtkinter
+docling
+pdfplumber
+Pillow
+python-dotenv
+google-generativeai
