@@ -80,6 +80,3 @@ Para llevar la conversión al siguiente nivel, puedes activar el **Análisis Vis
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia MIT. Siéntete libre de clonarlo, modificarlo y mejorarlo. 
-
----
-*Developed with ❤️ for the Cyberpunk future of document processing.*
